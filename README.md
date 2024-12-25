@@ -53,3 +53,4 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 ## Thanks :purple_heart:
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+*做出貢獻** 按鈕來開啟拉取請求以進行快速修復，例如拼寫錯誤、更新或連結修復。
